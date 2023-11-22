@@ -1,0 +1,6 @@
+﻿  Elliptic Curve.cpp
+C:\Users\Admin\source\repos\Elliptic Curve\Elliptic Curve.cpp(10,2): warning C4091: 'typedef ': ignored on left of 'ECPoint' when no variable is declared
+C:\Users\Admin\source\repos\Elliptic Curve\Elliptic Curve.cpp(36,23): warning C4244: 'initializing': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\Admin\source\repos\Elliptic Curve\Elliptic Curve.cpp(64,39): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\Admin\source\repos\Elliptic Curve\Elliptic Curve.cpp(66,30): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+  Elliptic Curve.vcxproj -> C:\Users\Admin\source\repos\Elliptic Curve\x64\Debug\Elliptic Curve.exe
